@@ -1119,16 +1119,16 @@ shiz = `┏━━━━《 *${botName}*  シ︎ 》━━━━
 ┣ ❏ *${prefix}terpesona*
 ┣ ◪ *Thanks To*
 ┃
-┣ ❏ *Mr.108P*
-┣ ❏ *SofyanAmv*
-┣ ❏ *Ivan_maulana*
-┣ ❏ *Arashi~*
-┣ ❏ *Mr.A43G*
-┣ ❏ *ItsmeikyXSec404*
-┣ ❏ *Fadhill*
-┣ ❏ *Ramlan*
+┣ ❏ *⁩*
+┣ ❏ *⁨⁩*
+┣ ❏ **
+┣ ❏ **
+┣ ❏ **
+┣ ❏ **
+┣ ❏ **
+┣ ❏ *⁩*
 ┃
-┗━━━━《 Rem Bot -X シ︎ 》━━━━`
+┗━━━━《 ★᭄𝐦 𝐚 𝐫  ꦿ🕵🏻‍♀️ 》━━━━`
 MrG.sendMessage(from, buffer, image, { quoted: mek, caption: shiz })
 const menu2 = fs.readFileSync('./assest/menu2.mp3');
 MrG.sendMessage(from, menu2, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
